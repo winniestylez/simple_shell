@@ -1,1 +1,1 @@
-a team work on a simple_shell task
+A simple shell project. 
